@@ -100,7 +100,7 @@ def printBestBooks(books):
 # Menu de opciones
 
 def printMenu():
-    print("Bienvenido")
+    print("¡Bienvenido!")
     print("1- Inicializar Catálogo")
     print("2- Cargar información en el catálogo")
     print("3- Consultar los libros de un año")
